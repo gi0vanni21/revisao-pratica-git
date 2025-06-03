@@ -33,7 +33,7 @@ def main():
                 "d) Para copiar um repositório remoto",
                 "e) Para atualizar o repositório local"
             ],
-            "correta": "d"
+            "correta" : "d"
         },
         {
             "pergunta": "\n3. Qual comando mostra o estado atual dos arquivos?",
